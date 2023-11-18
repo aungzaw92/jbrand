@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Boal Fish",
+    "price": 10.99,
+    "imgUrl": "/imgs/boal.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Catla Fish",
+    "price": 125,
+    "imgUrl": "/imgs/catla.jpg"
+  },
+  {
+    "id": 3,
+    "name": "King Fish",
+    "price": 1.05,
+    "imgUrl": "/imgs/king.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hilsa Fish",
+    "price": 162.5,
+    "imgUrl": "/imgs/hilsa.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Rohu Fish",
+    "price": 10.99,
+    "imgUrl": "/imgs/rohu.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Puti Fish",
+    "price": 25.0,
+    "imgUrl": "/imgs/puti.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mrigal Fish",
+    "price": 1.05,
+    "imgUrl": "/imgs/mrigal.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Basa Fish",
+    "price": 36.55,
+    "imgUrl": "/imgs/basa.jpg"
+  }
+]
