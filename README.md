@@ -16,6 +16,9 @@ In this initial phase, we have developed a 4-page application to showcase the es
 - Displays a catalog of available products.
 - Allows users to add products to their shopping cart.
 
+  ![capstone-part1](https://github.com/aungzaw92/jbrand/assets/25694268/3c386eb5-bbe5-415d-8ad3-23bb7f8a88cf)
+
+
 ### About Page:
 
 - Provides information about the company.
@@ -25,6 +28,9 @@ In this initial phase, we have developed a 4-page application to showcase the es
 ### Signup Page:
 
 - Allows users to sign up with personal information.
+
+  ![capstone-part2](https://github.com/aungzaw92/jbrand/assets/25694268/8218fe6c-1c97-4efa-a60a-20bef3a17655)
+
 
 ## Getting Started
 Follow these simple steps to get the project up and running on your local machine:
