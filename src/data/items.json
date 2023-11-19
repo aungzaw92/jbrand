@@ -43,8 +43,50 @@
   },
   {
     "id": 8,
-    "name": "Basa Fish",
+    "name": "Chana Dhal",
     "price": 36.55,
-    "imgUrl": "/imgs/basa.jpg"
+    "imgUrl": "/imgs/chanadhal.png"
+  },
+  {
+    "id": 9,
+    "name": "Chilli Spice",
+    "price": 10.99,
+    "imgUrl": "/imgs/chilli.png"
+  },
+  {
+    "id": 10,
+    "name": "Coriander Spice",
+    "price": 125,
+    "imgUrl": "/imgs/coriander.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Green Dhal",
+    "price": 1.05,
+    "imgUrl": "/imgs/greendhal.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Moong Dhal",
+    "price": 162.5,
+    "imgUrl": "/imgs/moong.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Red Lentil",
+    "price": 10.99,
+    "imgUrl": "/imgs/redlentil.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Tumeric Powder",
+    "price": 25.0,
+    "imgUrl": "/imgs/tumeric.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Urad Dhal",
+    "price": 1.05,
+    "imgUrl": "/imgs/uraddhal.png"
   }
 ]

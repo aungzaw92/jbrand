@@ -3,6 +3,7 @@ import { Container } from "react-bootstrap";
 import { Home } from "./pages/Home";
 import { Store } from "./pages/Store";
 import { About } from "./pages/About";
+import { Signup } from "./pages/Signup";
 import { Navbar } from "./components/Navbar";
 import { ShoppingCartProvider } from "./context/ShoppingCartContext";
 
@@ -15,6 +16,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/store" element={<Store />} />
           <Route path="/about" element={<About />} />
+          <Route path="/signup" element={<Signup />} />
         </Routes>
       </Container>
     </ShoppingCartProvider>
