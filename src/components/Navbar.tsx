@@ -1,6 +1,7 @@
-import { Button, Container, Nav, Navbar as NavbarBs } from "react-bootstrap";
+import { Button, Container, Nav, Navbar as NavbarBs, Image } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
 import { useShoppingCart } from "../context/ShoppingCartContext";
+import jbrandLogo from "../../public/imgs/jbrand.png"; 
 
 export function Navbar() {
   const { openCart, cartQuantity } = useShoppingCart();
@@ -8,6 +9,10 @@ export function Navbar() {
     <NavbarBs sticky="top" className="bg-white shadow-sm mb-3">
       <Container>
         <Nav className="me-auto">
+          {/* JBrand Logo */}
+          <Image src={jbrandLogo} alt="JBrand Logo" width="200" height="30" className="mr-2" />
+
+          {/* Navigation Links */}
           <Nav.Link to="/" as={NavLink}>
             Home
           </Nav.Link>
@@ -16,6 +21,9 @@ export function Navbar() {
           </Nav.Link>
           <Nav.Link to="/about" as={NavLink}>
             About
+          </Nav.Link>
+          <Nav.Link to="/signup" as={NavLink}>
+            Signup
           </Nav.Link>
         </Nav>
         {cartQuantity > 0 && (
